@@ -1,1 +1,2 @@
-#### Bubble-cocktail-and-merge-sort
+#### Programming techniques
+* [Лаба1](/1%20Лаба1%20)
