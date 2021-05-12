@@ -1,7 +1,16 @@
 ### Programming techniques
-#### Лаба1
-* [gendata.py](/1%20Лаба1%20/gendata.py)
-* [sorts.py](/1%20Лаба1%20/sorts.py)
-* [product_class.py](/1%20Лаба1%20/product_class.py)
-* [main.py](/1%20Лаба1%20/main.py)
+### [Лаба1. Алгоритмы сортировки.](/Лаба1)
+* [gendata.py](/Лаба1/gendata.py)
+* [product_class.py](/Лаба1/product_class.py)
+* [sorts.py](/Лаба1/sorts.py)
+* [main.py](/Лаба1/main.py)
+### [Лаба2. Алгоритмы поиска.](/Лаба2)
+* [gendata.py](/Лаба2/gendata.py)
+* [fd.py](/Лаба2/fd.py)
+* [sorts.py](/Лаба2/sorts.py)
+* [main.py](/Лаба2/main.py)
+### [Лаба3. Алгоритмы хэширования.](/Лаба3)
+* [gendata.py](/Лаба3/gendata.py)
+* [fd.py](/Лаба3/fd.py)
+* [main.py](/Лаба3/main.py)
 
