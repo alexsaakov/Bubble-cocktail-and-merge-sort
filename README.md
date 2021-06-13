@@ -13,4 +13,9 @@
 * [gendata.py](/Лаба3/gendata.py)
 * [fd.py](/Лаба3/fd.py)
 * [main.py](/Лаба3/main.py)
-
+### [Лаба4. Генератор случайных чисел.](/Лаба4)
+* [statistic.py](/Лаба4/statistic.py)
+* [generator.py](/Лаба4/generator.py)
+* [main.py](/Лаба4/main.py)
+### [Лаба5. Паттерн Prototype.](/Лаба5)
+* [main.py](/Лаба5/main_2.py)
