@@ -11,7 +11,7 @@ class Product:  # класс сотрудник
         self.volume = volume
         self.price = price
 
-    def __lt__(self, other):  # Перегрузка оперптора <
+    def __lt__(self, other):  # Перегрузка оператора <
         if isinstance(other, str):
             if self.name < other:
                 return True
@@ -77,7 +77,7 @@ def simple_find(array, key):
     for i in range(len(array)):
         if array[i].name == key:
             res = i
-            # можешь тут поставить break, если хочешь. тогда будет быстрее работать, но график будет некрасивый =)
+            break
     if res == -1:
         return 'not found'
     return res
