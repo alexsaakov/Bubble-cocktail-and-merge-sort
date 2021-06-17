@@ -19,3 +19,5 @@
 * [main.py](/Лаба4/main.py)
 ### [Лаба5. Паттерн Prototype.](/Лаба5)
 * [main.py](/Лаба5/main_2.py)
+### [Лаба6. Паттерн Proxy.](/Лаба6)
+* [main.py](/Лаба6/main.py)
